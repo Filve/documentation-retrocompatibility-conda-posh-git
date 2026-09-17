@@ -18,27 +18,27 @@ Il file di configurazione deve essere memorizzato nel percorso del profilo utent
 `C:\Users\Kael\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 
 (base) PS C:\Github\Aletheia-Agape> conda init powershell
-no change     C:\Users\Profile\miniconda3\Scripts\conda.exe
-no change     C:\Users\Profile\miniconda3\Scripts\conda-script.py
-no change     C:\Users\Profile\miniconda3\condabin\conda.bat
-no change     C:\Users\Profile\miniconda3\Library\bin\conda.bat
-no change     C:\Users\Profile\miniconda3\condabin\_conda_activate.bat
-no change     C:\Users\Profile\miniconda3\condabin\rename_tmp.bat
-no change     C:\Users\Profile\miniconda3\condabin\conda_auto_activate.bat
-no change     C:\Users\Profile\miniconda3\condabin\conda_hook.bat
-no change     C:\Users\Profile\miniconda3\Scripts\activate.bat
-no change     C:\Users\Profile\miniconda3\condabin\activate.bat
-no change     C:\Users\Profile\miniconda3\condabin\deactivate.bat
-no change     C:\Users\Profile\miniconda3\Scripts\activate
-no change     C:\Users\Profile\miniconda3\Scripts\deactivate
-no change     C:\Users\Profile\miniconda3\etc\profile.d\conda.sh
-no change     C:\Users\Profile\miniconda3\etc\fish\conf.d\conda.fish
-no change     C:\Users\Profile\miniconda3\shell\condabin\Conda.psm1
-no change     C:\Users\Profile\miniconda3\shell\condabin\conda-hook.ps1
-no change     C:\Users\Profile\miniconda3\Lib\site-packages\xontrib\conda.xsh
-no change     C:\Users\Profile\miniconda3\etc\profile.d\conda.csh
+1. no change     C:\Users\Profile\miniconda3\Scripts\conda.exe
+2. no change     C:\Users\Profile\miniconda3\Scripts\conda-script.py
+3. no change     C:\Users\Profile\miniconda3\condabin\conda.bat
+4. no change     C:\Users\Profile\miniconda3\Library\bin\conda.bat
+5. no change     C:\Users\Profile\miniconda3\condabin\_conda_activate.bat
+6. no change     C:\Users\Profile\miniconda3\condabin\rename_tmp.bat
+7. no change     C:\Users\Profile\miniconda3\condabin\conda_auto_activate.bat
+8. no change     C:\Users\Profile\miniconda3\condabin\conda_hook.bat
+9. no change     C:\Users\Profile\miniconda3\Scripts\activate.bat
+10. no change     C:\Users\Profile\miniconda3\condabin\activate.bat
+11. no change     C:\Users\Profile\miniconda3\condabin\deactivate.bat
+12. no change     C:\Users\Profile\miniconda3\Scripts\activate
+13. no change     C:\Users\Profile\miniconda3\Scripts\deactivate
+14. no change     C:\Users\Profile\miniconda3\etc\profile.d\conda.sh
+15. no change     C:\Users\Profile\miniconda3\etc\fish\conf.d\conda.fish
+16. no change     C:\Users\Profile\miniconda3\shell\condabin\Conda.psm1
+17. no change     C:\Users\Profile\miniconda3\shell\condabin\conda-hook.ps1
+18. no change     C:\Users\Profile\miniconda3\Lib\site-packages\xontrib\conda.xsh
+19. no change     C:\Users\Profile\miniconda3\etc\profile.d\conda.csh
 - no change     C:\Users\Profile\Documents\WindowsPowerShell\profile.ps1 <= TO OPEN WITH NOTEPAD
-No action taken.
+- No action taken.
 
 ### Codice Sorgente Definitivo
 
