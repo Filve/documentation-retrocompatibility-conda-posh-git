@@ -37,7 +37,7 @@ no change     C:\Users\Profile\miniconda3\shell\condabin\Conda.psm1
 no change     C:\Users\Profile\miniconda3\shell\condabin\conda-hook.ps1
 no change     C:\Users\Profile\miniconda3\Lib\site-packages\xontrib\conda.xsh
 no change     C:\Users\Profile\miniconda3\etc\profile.d\conda.csh
-no change     C:\Users\Profile\Documents\WindowsPowerShell\profile.ps1 <----------------------------------------
+- no change     C:\Users\Profile\Documents\WindowsPowerShell\profile.ps1 <= TO OPEN WITH NOTEPAD
 No action taken.
 
 ### Codice Sorgente Definitivo
