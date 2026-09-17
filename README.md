@@ -37,7 +37,7 @@ Il file di configurazione deve essere memorizzato nel percorso del profilo utent
 17. no change     C:\Users\Profile\miniconda3\shell\condabin\conda-hook.ps1
 18. no change     C:\Users\Profile\miniconda3\Lib\site-packages\xontrib\conda.xsh
 19. no change     C:\Users\Profile\miniconda3\etc\profile.d\conda.csh
-- no change     C:\Users\Profile\Documents\WindowsPowerShell\profile.ps1 <= TO OPEN WITH NOTEPAD
+20. no change     C:\Users\Profile\Documents\WindowsPowerShell\profile.ps1 <= TO OPEN WITH NOTEPAD
 - No action taken.
 
 ### Codice Sorgente Definitivo
