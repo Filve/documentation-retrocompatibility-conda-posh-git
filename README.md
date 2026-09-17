@@ -42,7 +42,7 @@ No action taken.
 
 ### Codice Sorgente Definitivo
 
-notepad 
+notepad C:\Users\Profile\Documents\WindowsPowerShell\profile.ps1
 
 ```powershell
 # ==============================================================================
